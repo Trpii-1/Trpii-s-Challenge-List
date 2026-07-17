@@ -1,17 +1,17 @@
 {
-    "id": 145008968,
-    "name": "TREES SUCK",
+    "id": 145015262,
+    "name": "Wait not there WHY",
     "author": "Trpii",
-    "creators": ["Trpii"],
-    "verifier": "No One",
+    "creators": [],
+    "verifier": [],
     "verification": "https://youtu.be/d-4zNp2V1Yk",
-    "percentToQualify": 70,
+    "percentToQualify": 80,
     "password": "Not Copyable",
     "records": [
         {
             "user": "Trpii",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 70,
+            "percent": 87,
             "hz": 240
         }
     ]
