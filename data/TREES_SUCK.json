@@ -5,13 +5,13 @@
     "creators": ["Trpii"],
     "verifier": "No One",
     "verification": "https://youtu.be/d-4zNp2V1Yk",
-    "percentToQualify": 85,
+    "percentToQualify": 70,
     "password": "Not Copyable",
     "records": [
         {
             "user": "Trpii",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
+            "percent": 74,
             "hz": 240
         }
     ]
