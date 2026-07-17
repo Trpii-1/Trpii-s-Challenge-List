@@ -1,0 +1,18 @@
+{
+    "id": 145015262,
+    "name": "Wait not there WHY",
+    "author": "Trpii",
+    "creators": ["Trpii"],
+    "verifier": "Trpii",
+    "verification": "https://youtu.be/d-4zNp2V1Yk",
+    "percentToQualify": 70,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Trpii",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 70,
+            "hz": 240
+        }
+    ]
+}
